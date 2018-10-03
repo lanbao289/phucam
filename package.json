@@ -1,0 +1,22 @@
+{
+  "name": "phucam",
+  "version": "1.0.0",
+  "description": "Write for phuc am web app for christian",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "phucam",
+    "tinlanh",
+    "christian",
+    "jesus",
+    "lord"
+  ],
+  "author": "lannguyen",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.6"
+  }
+}
